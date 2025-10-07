@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(173, 37, 37);
+    color: white;
+    font-family: Monterrat, Futura, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#hello {
+    color: black;
+    background-color: white;
+}
